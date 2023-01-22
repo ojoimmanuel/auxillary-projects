@@ -1,5 +1,10 @@
 # AUX PROJECT1: SHELL SCRIPTING
 
+### Demo Link:
+```
+https://drive.google.com/file/d/13SMelk_Hs7v8kq5nOYH-IQSTinnHmKub/view?usp=sharing
+```
+
 In this project, you need to onboard 20 new Linux users onto a server. Create a shell script that reads a csv file that contains the first name of the users to be onboarded.
 
 - Create the project folder called Shell  
@@ -101,3 +106,9 @@ kmaSGj362OnCCNAAAACWRhcmVARGFyZQE=
 -----END OPENSSH PRIVATE KEY-----
 ```
 Test a few of the users randomly, and ensure that you are able to connect to the server using the private key and the public key.
+
+
+### Demo Link:
+```
+https://drive.google.com/file/d/13SMelk_Hs7v8kq5nOYH-IQSTinnHmKub/view?usp=sharing
+```

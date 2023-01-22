@@ -2,6 +2,8 @@
 
 # SCRIPT TO ONBOARD NEW USERS LISTED ON THE names.csv FILE
 
+# Demo Link: https://drive.google.com/file/d/13SMelk_Hs7v8kq5nOYH-IQSTinnHmKub/view?usp=sharing
+
 # CHECK IF names.csv FILE DOES NOT EXIST
 if [ -e "$(ls names.csv)" ] 
 then
@@ -58,3 +60,6 @@ do
     onboard_user "$USER"
     ((LINE++))
 done < "./names.csv"
+
+
+# Demo Link: https://drive.google.com/file/d/13SMelk_Hs7v8kq5nOYH-IQSTinnHmKub/view?usp=sharing
